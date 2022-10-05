@@ -8,7 +8,8 @@ import ExerciseDetail from './pages/ExerciseDetail';
 import Home from './pages/Home';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-
+// added some functionality to the site
+// adjusted some navbar functions to display in flex
 const App = () => {
   return (
     <Box width="400px" sx={{ width: { xl: '1488px' }}} m="auto">
